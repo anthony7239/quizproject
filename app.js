@@ -1,6 +1,6 @@
 /* Question 1 */
 const images = [
-	"square.jpg", 
+	"square-resize.jpg", 
 	"rhombus.jpg", 
 	"rectangle.jpg"
 ];
@@ -68,9 +68,9 @@ for (let i = 0; i < images.length; i++) {
 
 /* Question 2 */
 const images2 = [
-	"rhombus2.jpg", 
-	"pentagon.jpg", 
-	"building.jpg"
+	"rhombus2-resize.jpg", 
+	"pentagon-resize.jpg", 
+	"building-resize.jpg"
 ];
 
 const container2 = document.getElementById("que2");
@@ -123,9 +123,9 @@ for (let i = 0; i < images.length; i++) {
 
 /* Question 3 */
 const images3 = [
-	"stop.jpg", 
-	"shareroad.jpg", 
-	"oneway.jpg"
+	"stop-resize.jpg", 
+	"shareroad-resize.jpg", 
+	"oneway-resize.jpg"
 ];
 
 const container3 = document.getElementById("que3");
@@ -178,9 +178,9 @@ for (let i = 0; i < images.length; i++) {
 
 /* Question 4 */
 const images4 = [
-	"home2.jpg", 
-	"home1.jpg", 
-	"circlehome.jpg"
+	"home2-resize.jpg", 
+	"home1-resize.jpg", 
+	"circlehome-resize.jpg"
 ];
 
 const container4 = document.getElementById("que4");
